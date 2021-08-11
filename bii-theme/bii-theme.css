@@ -31,6 +31,8 @@ body {
   padding: .25em;
 }
 
+body.no-footer #global-footer { display: none; }
+
 /*********************************************
  * HEADERS
  *********************************************/
